@@ -1,0 +1,7 @@
+dearpygui>=1.9
+opencv-python>=4.8
+numpy
+mss
+pywin32
+pygetwindow
+pytesseract

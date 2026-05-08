@@ -1,0 +1,45 @@
+{
+  "resolution": "1366x768",
+  "bar_offsets_per_res": {
+    "1366x768": {
+      "hp": {
+        "x_offset": -97,
+        "y_from_bottom": 36,
+        "width": 199,
+        "height": 18
+      },
+      "mp": {
+        "x_offset": -97,
+        "y_from_bottom": 15,
+        "width": 199,
+        "height": 18
+      },
+      "exp": {
+        "x_offset": -90,
+        "y_from_bottom": 0,
+        "width": 180,
+        "height": 12
+      }
+    },
+    "1920x1080": {
+      "hp": {
+        "x_offset": -100,
+        "y_from_bottom": 68,
+        "width": 200,
+        "height": 16
+      },
+      "mp": {
+        "x_offset": -100,
+        "y_from_bottom": 50,
+        "width": 200,
+        "height": 16
+      },
+      "exp": {
+        "x_offset": -200,
+        "y_from_bottom": 16,
+        "width": 400,
+        "height": 14
+      }
+    }
+  }
+}
